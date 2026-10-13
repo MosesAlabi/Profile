@@ -1,0 +1,446 @@
+{
+  "profile": {
+    "name": "Moses Alabi",
+    "headline": "Data, Database Engineering & Information Systems Professional",
+    "academicFocus": "Cybersecurity in cloud computing · Human-centred decision support",
+    "location": "Nigeria — open to global collaboration",
+    "email": "mossalab@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/moses-alabi",
+    "calendly": "https://calendly.com/mosesalabi",
+    "timezone": "Africa/Lagos",
+    "heroHeadline": "Making complex data useful, dependable, and secure.",
+    "heroIntro": "I build and improve data platforms, operational information systems, and decision-support tools that help teams turn fragmented information into practical action.",
+    "philosophy": "My focus is not simply collecting data. It is making information consistent, secure, and useful to the people who depend on it.",
+    "toolkit": [
+      "SQL Server",
+      "T-SQL",
+      "Python",
+      "Power BI",
+      "C# / ASP.NET MVC",
+      "ArcGIS",
+      "Power Platform"
+    ],
+    "highlights": [
+      "MSc Computing & Information Systems — Distinction",
+      "11+ years professional experience",
+      "Database Engineering",
+      "Applied Analytics",
+      "Information Systems",
+      "Cybersecurity",
+      "Humanitarian Technology"
+    ],
+    "focusTags": [
+      "Data Integrity",
+      "Secure Systems",
+      "Decision Support",
+      "Data Governance",
+      "Applied AI",
+      "Humanitarian Information Systems"
+    ],
+    "bio": [
+      "Moses Alabi is a data, database, and information systems professional with more than 11 years of experience across information management, application development, digital data workflows, analytics, and programme operations with the International Organization for Migration (IOM) in Nigeria.",
+      "His professional experience includes relational database development, SQL Server administration, data integration, data quality assurance, government-facing screening applications, dashboards, geospatial reporting, digital data-collection workflows, and operational decision support.",
+      "He holds an MSc in Computing and Information Systems with Distinction from Liverpool John Moores University, United Kingdom.",
+      "His academic research examined cybersecurity in cloud computing, including security threats, mitigation strategies, governance frameworks, and emerging approaches. This experience supports his interest in secure, reliable, well-governed, and human-centred information systems.",
+      "His broader interests include data engineering, trustworthy digital infrastructure, responsible AI, decision-support systems, and technology that helps public-sector and humanitarian organisations make better decisions."
+    ]
+  },
+  "education": [
+    {
+      "qualification": "Master of Science (MSc), Computing and Information Systems — Distinction",
+      "institution": "Liverpool John Moores University",
+      "country": "United Kingdom",
+      "year": "2025",
+      "description": "Dissertation: \"Enhancing Cybersecurity in Cloud Computing: A Study on Threats, Mitigation Strategies, and Future Trends.\""
+    },
+    {
+      "qualification": "Bachelor of Science (BSc), Accounting",
+      "institution": "University of Maiduguri",
+      "country": "Nigeria",
+      "year": "2021"
+    },
+    {
+      "qualification": "National Diploma (ND), Banking and Finance",
+      "institution": "Federal Polytechnic Offa",
+      "country": "Nigeria"
+    }
+  ],
+  "training": [
+    "Diploma in Databases and T-SQL",
+    "Master Data Management",
+    "General Data Protection Regulation (GDPR)",
+    "Microsoft Power Apps Essential Training",
+    "Microsoft Power Virtual Agents",
+    "Programming 101",
+    "GIS/ArcGIS Training",
+    "Cybersecurity Defence Analyst"
+  ],
+  "expertise": [
+    {
+      "title": "Database engineering",
+      "summary": "Designing, maintaining, and securing relational databases that operational teams can rely on.",
+      "skills": [
+        "Microsoft SQL Server",
+        "T-SQL",
+        "Relational database design",
+        "Schema management",
+        "Views, functions, triggers & stored procedures",
+        "Query optimisation",
+        "Performance monitoring",
+        "Backup and recovery",
+        "Database security",
+        "Data modelling & documentation",
+        "Database migration"
+      ]
+    },
+    {
+      "title": "Data engineering & quality",
+      "summary": "Integrating, cleansing, and governing data so it stays consistent from collection to reporting.",
+      "skills": [
+        "ETL & data integration",
+        "Data cleansing",
+        "Data validation",
+        "Data migration",
+        "Data quality assurance",
+        "Data audits",
+        "Master data management",
+        "Data governance",
+        "Data integrity",
+        "Data provenance"
+      ]
+    },
+    {
+      "title": "Analytics & business intelligence",
+      "summary": "Turning structured data into reports, dashboards, and decision-support products.",
+      "skills": [
+        "Python",
+        "Power BI",
+        "Microsoft Access",
+        "Statistical reporting",
+        "Data visualisation",
+        "Trend analysis",
+        "Analytical dashboards",
+        "GIS-supported reporting",
+        "Decision-support products"
+      ]
+    },
+    {
+      "title": "Application development & automation",
+      "summary": "Building desktop, web, and low-code applications that standardise operational workflows.",
+      "skills": [
+        "C#",
+        "ASP.NET MVC",
+        "VBA",
+        "JavaScript",
+        "HTML & CSS",
+        "Power Apps",
+        "Power Automate",
+        "Workflow automation",
+        "Testing",
+        "Requirements analysis",
+        "Technical documentation"
+      ]
+    },
+    {
+      "title": "Geospatial & field information systems",
+      "summary": "Structured field data collection, mapping, and geographic quality assurance.",
+      "skills": [
+        "ArcGIS",
+        "QGIS",
+        "KoboToolbox",
+        "Digital surveys",
+        "Community & beneficiary mapping",
+        "Geographic data QA",
+        "Field data collection & monitoring"
+      ]
+    },
+    {
+      "title": "Systems administration & cybersecurity",
+      "summary": "Operating and protecting the systems that hold sensitive operational information.",
+      "skills": [
+        "Windows Server",
+        "Linux",
+        "PowerShell",
+        "Access control",
+        "Backup & recovery",
+        "Cybersecurity assessment & defence training",
+        "Burp Suite",
+        "Metasploit",
+        "OSSEC",
+        "Kali Linux",
+        "Cloud security concepts",
+        "Risk, governance & data protection"
+      ]
+    },
+    {
+      "title": "AI & human-centred decision support",
+      "summary": "Interest and applied work at the intersection of analytics, responsible AI, and human judgement.",
+      "skills": [
+        "AI-enabled analytics",
+        "Decision-support dashboards",
+        "Human-centred system design",
+        "Responsible AI",
+        "Data quality & uncertainty",
+        "Operational sensemaking",
+        "Secure & reliable information systems"
+      ]
+    },
+    {
+      "title": "Professional & operational delivery",
+      "summary": "Coordinating people, procedures, and stakeholders around technical delivery.",
+      "skills": [
+        "Project coordination",
+        "Team supervision",
+        "Staff mentoring",
+        "Stakeholder engagement",
+        "Systems training",
+        "Standard operating procedures",
+        "Technical documentation",
+        "Budget & progress monitoring",
+        "Risk identification",
+        "Multidisciplinary collaboration"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "org": "International Organization for Migration (IOM), Nigeria",
+      "role": "Senior Information Management and Database Assistant",
+      "period": "September 2022 — 2026",
+      "items": [
+        "Planned, designed, and implemented integrated data-collection and information-management mechanisms supporting DDRR programmes.",
+        "Maintained data accuracy, integrity, availability, and timely reporting.",
+        "Developed and maintained Microsoft SQL Server and T-SQL solutions: data models, queries, views, stored procedures, and integration routines.",
+        "Developed SQL integration processes to consolidate Nigerian government data into an ICRS database.",
+        "Developed and supported screening applications for Nigerian government operations at federal and state levels, including screening and categorisation workflows.",
+        "Produced analytical reports, statistical outputs, dynamic maps, and dashboards for planning, monitoring, management decisions, and donor reporting.",
+        "Applied decision-support approaches and Power Platform automation.",
+        "Coordinated field surveys, assessments, monitoring, and GIS quality assurance.",
+        "Trained database assistants and field staff.",
+        "Resolved database issues, monitored performance, configured access, and maintained backups and routine operations."
+      ]
+    },
+    {
+      "org": "International Organization for Migration (IOM), Nigeria",
+      "role": "Database Developer Assistant",
+      "period": "May 2017 — August 2022",
+      "items": [
+        "Designed and maintained SQL Server databases.",
+        "Developed desktop and web applications using T-SQL, C#, ASP.NET MVC, VBA, HTML, JavaScript, and CSS.",
+        "Built data-integration and quality-control processes.",
+        "Created database objects: stored procedures, triggers, tables, views, and functions.",
+        "Performed testing, troubleshooting, and query optimisation.",
+        "Designed database structures and data-migration processes.",
+        "Developed analytical queries, reporting structures, ETL workflows, and data visualisation.",
+        "Developed mobile-supported survey tools and performed GIS data quality assurance.",
+        "Supported application deployment, decommissioning, networking, and technical assistance.",
+        "Supervised and mentored junior developers and non-technical users."
+      ]
+    },
+    {
+      "org": "International Organization for Migration (IOM), Nigeria",
+      "role": "Project Assistant",
+      "period": "February 2015 — April 2017",
+      "items": [
+        "Designed Kobo-based survey applications.",
+        "Supported biometric and web-based data collection and administered biometric registration databases.",
+        "Queried data for analysis and validated applications.",
+        "Trained field agents.",
+        "Coordinated project schedules, communications, deliverables, and documentation.",
+        "Prepared standard operating procedures, manuals, and training materials.",
+        "Supported budget monitoring, progress reporting, cost tracking, and project planning.",
+        "Coordinated stakeholders and suppliers and supported operational risk identification."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "integrated-case-data-sql-workflows",
+      "title": "Integrated Case Data and SQL Workflows",
+      "category": "Data Engineering",
+      "summary": "Developing SQL integration processes and data-validation routines to consolidate operational records into a structured case-management data environment.",
+      "problem": "Operational records arriving from multiple sources in different structures make reporting slow and inconsistent, and make it hard to trust a single view of a case.",
+      "role": "Designed and developed SQL Server integration processes, database objects, and validation routines as part of the information-management team.",
+      "approach": "Source records are mapped to a consistent relational model, passed through validation and de-duplication routines in T-SQL, and loaded into a structured case-management environment that reporting can query directly.",
+      "components": [
+        "Relational data model",
+        "T-SQL integration routines",
+        "Stored procedures and views",
+        "Validation and quality checks",
+        "Backup and maintenance routines"
+      ],
+      "relevance": "A consolidated, validated dataset gives programme teams a more dependable basis for case follow-up and reporting.",
+      "stack": [
+        "SQL Server",
+        "T-SQL",
+        "Data integration",
+        "Data modelling",
+        "Data quality"
+      ],
+      "confidentiality": "Summary of professional experience. Source data, schemas, and system details are confidential and not shown."
+    },
+    {
+      "slug": "government-screening-information-system",
+      "title": "Government Screening Information System",
+      "category": "Application Development",
+      "summary": "Developing and supporting screening applications for federal- and state-level government operations to standardise information collection and categorisation workflows.",
+      "problem": "Screening operations need a consistent, structured way to capture and categorise information across different locations and levels of government.",
+      "role": "Developed and supported screening applications and their database components, and supported users in operational settings.",
+      "approach": "Requirements were translated into structured digital forms and workflow steps, backed by a relational database with controlled access, so that information is captured the same way wherever screening takes place.",
+      "components": [
+        "Requirements and workflow design",
+        "Web application (C#, ASP.NET MVC)",
+        "Relational database and T-SQL logic",
+        "Access control",
+        "User training and support"
+      ],
+      "relevance": "Structured digital processing reduces variation in how information is recorded and makes categorisation workflows easier to follow and review.",
+      "stack": [
+        "C#",
+        "ASP.NET MVC",
+        "T-SQL",
+        "Relational databases",
+        "Information systems"
+      ],
+      "confidentiality": "Summary of professional experience. Implementation details, records, and screenshots are confidential and excluded."
+    },
+    {
+      "slug": "operational-analytics-decision-support",
+      "title": "Operational Analytics and Decision Support",
+      "category": "Analytics and Reporting",
+      "summary": "Producing dashboards, statistical outputs, reports, and workflow automations to support programme planning, monitoring, analysis, and evidence-based decisions.",
+      "problem": "Programme teams need timely, accessible information to plan, monitor progress, and report to stakeholders.",
+      "role": "Produced analytical reports, statistical outputs, dashboards, and automations drawing on integrated operational data.",
+      "approach": "Data from integrated SQL sources is shaped into reporting structures, analysed with SQL and Python, and presented through Power BI dashboards, with Power Platform automations handling routine steps.",
+      "components": [
+        "Reporting views and queries",
+        "Power BI dashboards",
+        "Statistical outputs",
+        "Power Platform automations",
+        "Donor and management reporting"
+      ],
+      "relevance": "Integrated analytics makes operational information easier to find and use for planning, monitoring, and decision-making.",
+      "stack": [
+        "Power BI",
+        "SQL",
+        "Python",
+        "Power Platform"
+      ],
+      "confidentiality": "Summary of professional experience. Dashboards and datasets are internal and not shown."
+    },
+    {
+      "slug": "field-data-collection-geospatial-insight",
+      "title": "Field Data Collection and Geospatial Insight",
+      "category": "Field Information Systems",
+      "summary": "Supporting digital surveys, field data quality assurance, community mapping, and geospatial outputs for operational assessments and monitoring.",
+      "problem": "Field assessments depend on well-structured collection tools and geographic data that is accurate enough to act on.",
+      "role": "Designed digital survey tools, trained field staff, coordinated surveys, and performed GIS data quality assurance.",
+      "approach": "Structured KoboToolbox forms capture consistent field data; quality-assurance checks catch errors early; ArcGIS and QGIS turn validated data into maps for assessments and monitoring.",
+      "components": [
+        "KoboToolbox survey design",
+        "Field staff training",
+        "Geographic data QA",
+        "Community mapping",
+        "Monitoring outputs"
+      ],
+      "relevance": "Linking structured collection, quality assurance, and geospatial analysis gives operational teams a clearer picture on the ground.",
+      "stack": [
+        "KoboToolbox",
+        "ArcGIS",
+        "QGIS",
+        "Digital data collection",
+        "Data quality"
+      ],
+      "confidentiality": "Summary of professional experience. Location data and beneficiary information are confidential and excluded."
+    }
+  ],
+  "dissertation": {
+    "title": "Enhancing Cybersecurity in Cloud Computing: A Study on Threats, Mitigation Strategies, and Future Trends",
+    "author": "Moses Alabi",
+    "qualification": "MSc in Computing and Information Systems",
+    "institution": "Liverpool John Moores University, United Kingdom",
+    "year": "2025",
+    "method": "Qualitative literature review and thematic analysis",
+    "coverage": [
+      "Cloud computing security threats",
+      "Data breaches and misconfiguration",
+      "Insider threats",
+      "Mitigation strategies",
+      "Governance frameworks",
+      "Regulatory compliance",
+      "Proactive threat detection",
+      "Security automation",
+      "Zero-trust architectures",
+      "AI-supported threat detection",
+      "Risk management and security awareness"
+    ]
+  },
+  "research_interests": [
+    {
+      "title": "Human-centred AI and decision-support systems"
+    },
+    {
+      "title": "Data quality, integration, provenance, and governance"
+    },
+    {
+      "title": "Secure, reliable, and resilient digital information systems"
+    },
+    {
+      "title": "AI-enabled analytics for public-sector and humanitarian programmes"
+    },
+    {
+      "title": "Humanitarian coordination and decision-making during emergencies"
+    },
+    {
+      "title": "Multi-agency disaster response and shared situational awareness",
+      "proposedTitle": "Designing Human-Centred Coordination Systems for Multi-Agency Disaster Response: Supporting Expertise Mobilisation, Collective Sensemaking, and Organisational Coordination During Humanitarian Emergencies"
+    },
+    {
+      "title": "Expertise mobilisation and collective sensemaking"
+    },
+    {
+      "title": "Human-computer interaction and human-centred system design"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "MSc with Distinction",
+      "body": "Completed an MSc in Computing and Information Systems at Liverpool John Moores University, United Kingdom."
+    },
+    {
+      "title": "Government-facing information systems",
+      "body": "Developed and supported screening applications and information systems for federal- and state-level government operations."
+    },
+    {
+      "title": "Operational data integration",
+      "body": "Developed SQL integration processes and data-quality routines that made information more accessible and consistent for operational workflows and reporting."
+    },
+    {
+      "title": "Analytical and decision-support products",
+      "body": "Produced reports, dashboards, statistical outputs, and geospatial materials for programme monitoring, planning, and evidence-based decision-making."
+    },
+    {
+      "title": "Technical capacity building",
+      "body": "Trained and supported database assistants, field staff, and non-technical users in database administration, information management, and data-quality practices."
+    },
+    {
+      "title": "Security-minded information systems",
+      "body": "Applied database access controls, maintenance practices, backup procedures, and cybersecurity knowledge to information systems work."
+    }
+  ],
+  "repositories": [],
+  "publications": [],
+  "background": {
+    "rotate": true,
+    "interval": 8,
+    "themes": [
+      "aurora",
+      "violet",
+      "citrus",
+      "ocean"
+    ],
+    "images": [],
+    "mode": "themes",
+    "overlay": 0.6
+  }
+}
