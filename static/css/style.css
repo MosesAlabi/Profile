@@ -100,8 +100,8 @@ a { color: inherit; text-decoration: none; } ul, ol { list-style: none; }
 .f2 { right: -12px; top: 34%; animation-delay: .8s; }
 .f3 { left: -24px; bottom: 80px; animation-delay: 1.6s; }
 .f4 { right: -18px; bottom: 30px; animation-delay: 2.4s; }
-.f5 { left: 15%; top: -30px; animation-delay: 3.2s; }
-.f6 { right: 15%; bottom: -35px; animation-delay: 4s; }
+.f5 { left: 25%; top: -45px; animation-delay: 3.2s; }
+.f6 { right: 25%; bottom: -45px; animation-delay: 4s; }
 .bg-ctrl { position: absolute; right: 20px; bottom: 20px; display: flex; align-items: center; gap: .2rem; padding: .25rem; border-radius: 999px; font: .75rem var(--font-m); }
 .bg-ctrl button { width: 32px; height: 32px; border-radius: 50%; border: 0; background: none; color: var(--fg); cursor: pointer; font-size: 1rem; } .bg-ctrl button:hover { background: rgba(255,255,255,.1); }
 .bg-ctrl span { min-width: 60px; text-align: center; color: var(--muted); }
