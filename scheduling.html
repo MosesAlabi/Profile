@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap">
   <link rel="stylesheet" href="static/css/style.css">
   <script src="static/js/main.js" defer></script>
+  <link rel="stylesheet" href="static/css/scheduling.css">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -39,7 +40,7 @@
       
       <a href="contact.html" >Contact</a>
       
-     <!-- <a href="admin.html" class="admin-btn">🔒 Admin</a>-->
+      <a href="admin.html" class="admin-btn">🔒 Admin</a>
     </nav>
     <button class="menu" id="menuBtn" aria-label="Open menu" aria-expanded="false" aria-controls="nav">☰</button>
   </div>
@@ -55,29 +56,41 @@
     <p class="lead">For collaboration, research supervision, consulting or employment conversations.</p>
   </div>
 </section>
-<section class="wrap sec g2">
-  <div class="glass feature">
-    <h2>Pick a time on Calendly</h2>
-    <p class="muted">The booking page shows times in your own time zone.</p>
-    <div class="actions">
-      <a class="btn primary" href="https://calendly.com/mosesalabi" target="_blank" rel="noopener noreferrer">Open booking page</a>
-      <a class="btn" href="mailto:mossalab@gmail.com?subject=Meeting%20request%20%E2%80%94%20Moses%20Alabi">Request a meeting by email</a>
+<section class="wrap sec sched">
+  <div class="g2">
+    <div class="glass feature">
+      <h2>Pick a time</h2>
+      <p class="muted small">Times already taken on Moses's Google and Outlook calendars are hidden, so bookings never clash.</p>
+      <div class="sch-cal" id="cal"></div>
+    </div>
+    <div class="panel pad">
+      <p class="eyebrow">Time zones</p>
+      <p class="muted small">Moses (Africa/Lagos)</p><p class="mono clock" data-tz="Africa/Lagos">—</p>
+      <p class="muted small">Your local time</p><p class="mono" data-tz="local">—</p>
+      <p class="eyebrow" style="margin-top:1rem">Meeting details</p>
+      <form id="bookForm" class="sch-form">
+        <label>Length <select id="dur"></select></label>
+        <label>Format <select id="mode"><option value="online">Online (Zoom)</option><option value="physical">In person</option></select></label>
+        <p class="small" id="chosenDay">Choose a day on the calendar.</p>
+        <div class="sch-slots" id="slots"></div>
+        <label>Your name <input id="bName" required></label>
+        <label>Your email <input id="bEmail" type="email" required></label>
+        <label>Topic <textarea id="bTopic" rows="3" required></textarea></label>
+        <button class="btn primary" type="submit">Request this time</button>
+        <p class="small" id="bMsg" role="status"></p>
+      </form>
+      <p class="muted small" id="syncNote"></p>
     </div>
   </div>
-  <div class="panel pad">
-    <p class="eyebrow">Time zones</p>
-    <p class="muted small">Moses (Africa/Lagos)</p><p class="mono clock" data-tz="Africa/Lagos">—</p>
-    <p class="muted small">Your local time</p><p class="mono" data-tz="local">—</p>
-    <p class="muted small">Google and Outlook calendar connections aren't set up yet. Please book through Calendly or email.</p>
-  </div>
 </section>
+<script src="static/js/scheduling.js" defer></script>
 
 </main>
 <footer class="footer">
   <div class="wrap footer-in">
     <div><p class="h-sm">Moses Alabi</p><p class="muted small">Data, Database Engineering &amp; Information Systems Professional. Nigeria — open to global collaboration.</p></div>
     <div class="small links">
-      <a href="mailto:malalabi@outlook.com">malalabi@outlook.com</a>
+      <a href="mailto:mossalab@gmail.com">mossalab@gmail.com</a>
       <a href="https://www.linkedin.com/in/moses-alabi" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       <a href="https://calendly.com/mosesalabi" target="_blank" rel="noopener noreferrer">Book a conversation</a>
       <a href="admin.html" class="muted">Admin Access</a>
